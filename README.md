@@ -64,10 +64,5 @@ This repository includes:
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
-For questions or suggestions, please contact [your-email@example.com].
+For questions or suggestions, please contact [m.zaman.djp@gmail.com].

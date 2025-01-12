@@ -18,6 +18,7 @@ A **Binary Tree** is a tree where each node can have at most two children, typic
 - **Binary Search Tree (BST)**: A binary tree where the left child contains values less than the parent node and the right child contains values greater than the parent node.
 - **Binary Heap**: A complete binary tree satisfying the heap property (min-heap or max-heap).
 
+
 ### 2. Ternary Tree
 A **Ternary Tree** is a tree where each node can have at most three children, commonly referred to as "left", "mid", and "right".
 
